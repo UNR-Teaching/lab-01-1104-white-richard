@@ -1,0 +1,10 @@
+//there was no answers.txt so I created one
+3. I think the > meant to create a text file that lists everything in the directory 
+4.On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   newfile.txt
+It is letting me know that the file is prepared to be uploaded to git
+6. This command highlights the differences in the file green 
